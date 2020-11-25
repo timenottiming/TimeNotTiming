@@ -1,0 +1,39 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
+
+html{
+  font-size: 10px;
+  font-family: "Raleway", sans-serif;
+}
+
+html{
+  background-color: #374A5D;
+}
+
+body{
+  width: 600px;
+  margin: 0 auto;
+  background-color: #EAF3FC;
+  padding: 20px 20px 20px 20px;
+  border: 6px solid white;
+}
+
+h1{
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 0 0 10px 0;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+p,li{
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img{
+  display: block;
+  margin: 0 -230px;
+}
